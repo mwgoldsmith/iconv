@@ -34,3 +34,6 @@ man/iconv_open.3.html
 doc
 build-aux/snippet
 *.gmo
+*.opendb
+.vs/
+*.sdf
